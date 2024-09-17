@@ -1,0 +1,1 @@
+platform that enables restaurant managers to list and sell their food offerings, while customers can easily browse and place orders. Streamline restaurant operations and enhance the customer dining experience with a seamless ordering process.
